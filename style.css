@@ -1,0 +1,234 @@
+body{
+    background-color: rgb(252, 252, 252);
+    color: #FDb0aa;
+
+
+}
+
+#ville{
+background-color: rgb(252, 252, 252);
+width:930px ;
+height:1850px;
+padding: auto;
+margin:auto;
+}
+#color{
+    background-color: black;
+    width:930px ;
+    height:90px ;
+    color: rgb(255, 254, 252);
+    font-family: Arial;
+    font-size: 15px;
+}
+#huit{
+    position: relative;
+    top: 0px;
+    left: 550px;
+}
+p{
+    position: relative;
+    left: 40px;
+    top: 30px;
+}
+#votre{
+width:930px;
+height: 350px;
+background-color: #ffffff;  
+position: relative;  
+top: -17px;
+}
+h1{
+    font-size:25px ;
+    position: relative;
+    top: 80px;
+    left: -167px;
+}
+#livre{
+    width: 150px;
+    height: 35px;
+    border-radius: 10px;
+    background-color:#03224C;
+    color: black;
+    position: relative;
+    top: -70px;
+    left: 200px;
+}
+#vie{
+    position: relative;
+    left: 430px;
+    top:16px ;
+}
+#propre{
+    width:160px ;
+    height:30px;
+    position: relative;
+    left: 20px;
+    top: 30px;
+}
+h3{
+    left: 20px;
+    position: relative;
+    font-size: 15px;
+    top: 15px;
+}
+#trier{
+    width: 200px;
+    height: 200px;
+    border-radius: 200px;
+    background-color:#03224C;
+    position: relative;
+    top: -190px;
+    left: 600px;
+   
+}
+#informe{
+    background-color: #03224C;
+    height: 300px;
+}
+#lire{
+    border-radius: 200px;  
+    width: 200px;
+    height: 200px;
+    position: relative;
+    top: -00px;
+    left: px;
+    border-color: black 70px;
+}
+#fruit{
+    position: relative;
+    top: 10px;
+}
+#sucre{
+width: 250px;
+height: 120px; 
+position: relative;
+top: 10px;
+left: 30px;
+background-color: black;
+box-shadow:20px 20px 10px #03224C;
+border-radius: 20px;
+}
+#cafe{
+    width: 250px;
+    height: 120px;
+    position: relative;
+    top: -110px;
+    left:350px ;
+    background-color: black;
+    box-shadow: 20px 20px 10px #03224C;
+    border-radius: 20px;
+}
+#lait{
+     width: 250px;
+    height: 120px;
+    position: relative;
+    top: -230px;
+    left: 650px;
+    background-color: black;
+    box-shadow:20px 20px 10px #03224C;
+    border-radius: 20px;
+}
+#prix{
+    width: 930px;
+    height: 300px;
+    background-color: black;
+    position: relative;
+    top: -230px;
+}
+#fille{
+  font-size: 20px;
+}
+#gestion{
+    width: 300px;
+    height: 150px;
+    background-color: rgb(252, 252, 252);
+    position: relative;
+    left: 130px;
+    top: 50px;
+}
+#lion{
+    width: 300px;
+    height: 150px;
+    background-color: rgb(255, 255, 255);
+    position: relative;
+    top: -100px;
+    left: 500px;
+}
+#flore{
+    width:930px;
+    height: 430px;
+    background-color:#03224C;
+    position: relative;
+    top: -270px;
+
+}
+h6{
+    position: relative;
+    top: -280px;
+    font-size: 15px;
+    left: 10px;
+}
+#lieu{
+    font-size: 30px;
+}
+#mission{
+    font-size: 25px;
+    position: relative;
+    top: -50px;
+}
+#lui{
+    width: 70px;
+    height: 25px;
+    border-radius: 10px;
+    background-color:#03224C;
+    color: black;
+    position: relative;
+    top: 20px;
+}
+label {
+    display: block;
+    margin-top: 10px;
+    color: #020202;
+    position: relative;
+    top: -45px;
+    left: 130px;
+}
+
+input ,textarea{
+    width: 400px;
+    padding: 8px;
+    margin-top: 5px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    position: relative;
+    top: -90px;
+    left: 230px;
+}
+
+button {
+    width: 400px;
+    padding: 10px;
+    margin-top: 15px;
+    background-color: #FDb0aa;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    position: relative;
+    top:-90px ;
+    left: -24px;
+}
+
+button:hover {
+    background-color: #FDb0aa;
+}
+
+.hidden {
+    display: none;
+}
+
+#confirmationMessage {
+    text-align: center;
+    color: #FDb0aa;
+    margin-top: 20px;
+}
